@@ -1,0 +1,12 @@
+.chartdiv {
+    margin-left:-800px;
+    
+}
+
+@media only screen and (max-width:770px){
+    .chartdiv {
+        margin-left:0px;
+        margin-top: 20px;
+        height: 200px;
+    }
+}

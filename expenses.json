@@ -1,0 +1,44 @@
+{
+	"Expenses": [
+        {
+            "Date": "21.06.2020",
+            "VehicleNo": "TN52S 7599",
+            "Group": "Lorry",
+            "Vendor": "Maple",
+            "Particulars": "Engine Oil",
+            "Qty": "11",
+            "Rate": "459",
+            "Amount": "4590"
+        },
+        {
+            "Date": "21.06.2020",
+            "VehicleNo": "TN52S 7599",
+            "Group": "Tyre",
+            "Vendor": "MRF",
+            "Particulars": "Mrf 10.20 - 115698",
+            "Qty": "1",
+            "Rate": "44000",
+            "Amount": "44000"
+        },
+        {
+            "Date": "21.06.2020",
+            "VehicleNo": "TN52S 7599",
+            "Group": "Repair",
+            "Vendor": "Maple",
+            "Particulars": "Labour Charges",
+            "Qty": "1",
+            "Rate": "1500",
+            "Amount": "1500"
+        },
+        {
+            "Date": "22.06.2020",
+            "VehicleNo": "TN52S 7599",
+            "Group": "A/C",
+            "Vendor": "Autoref",
+            "Particulars": "Gas",
+            "Qty": "1.5",
+            "Rate": "1000",
+            "Amount": "1500"
+        }
+    ]
+}

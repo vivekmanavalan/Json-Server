@@ -1,0 +1,33 @@
+CHITRA COLD TRANSPORTS
+
+2-1/53, TCM Colony 
+Kunjandiyur, Gonur (Post)
+Mettur Dam - 636 404 Salem Dt,
+TAMILNADU, INDIA.
+Mobile: 94881 30489
+Attachments area
+
+
+"json2:server": "json-server --watch data/expense.json --port 5000",
+    "json3:server": "json-server --watch data/load.json --port 6000",
+    "json4:server": "json-server --watch data/fastag.json --port 7000",
+    "dev": "concurrently \"npm start\" \"npm run json1:server\" \"npm run json2:server\" \"npm run json3:server\" \"npm run json4:server\""
+
+      animation: 400ms ease-in 0s 1 slideInfromTop;
+	  
+	  
+	  
+	  background-color: rgba(0,0,0,0.4);
+	  rgb(0, 153, 255);  //save button blue color
+	  
+	  .modal {
+    position:fixed;
+    top:20%;
+    left:25%;
+    z-index:1;
+    width:50%;
+    height: 70%;
+    position:fixed;
+    border:1px solid #808080;
+    background-color: rgb(134, 202, 233);
+}

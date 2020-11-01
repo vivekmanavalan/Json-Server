@@ -1,0 +1,50 @@
+{
+	"Diesel": [
+        {
+            "Date": "01.06.2020 05:19:22 PM",
+            "Location": "DaduyaM/S JAGDISH SONS FILLING STATION - PBFO53",
+            "Litre": "348.93",
+            "Rate": "63.65",
+            "Amount": "22,209.00"
+        },
+        {
+            "Date": "02.06.2020 10:42:51am",
+            "Location": "SEWLA - UWF042",
+            "Litre": "151.07",
+            "Rate": "63.80",
+            "Amount": "9,639.00"
+        },
+        {
+            "Date": "02.06.2020 10:52:12PM",
+            "Location": "Lalitpur sagar -UEF091",
+            "Litre": "133.27",
+            "Rate": "64.60",
+            "Amount": "8,609.00"
+        },
+        {
+            "Date": "03.06.2020 08:28:23pm",
+            "Location": "Adilaba TS - APT005",
+            "Litre": "202.12",
+            "Rate": "69.75",
+            "Amount": "14,097.00"
+        },
+        {
+            "Date": "04.06.2020 06:27:25pm",
+            "Location": "Malur - KRF017",
+            "Litre": "265.31",
+            "Rate": "65.95",
+            "Amount": "17,497.00"
+        },
+        {
+            "Date": "11.06.2020 03:11:15am",
+            "Location": "Trichy 3 - TNF045",
+            "Litre": "228.75",
+            "Rate": "71.27",
+            "Amount": "16,303.00"
+        },
+        {
+            "Litre": "1,329.45",
+            "Amount": "88,354.00"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+.expense_form {
+    color: white;
+    
+}
+.company {
+    font-size: 25px;
+    color: rgb(241, 199, 11);
+    margin-top: 0px;
+}
+.form_div {
+    margin: auto;
+    border: 1px solid blueviolet;
+    width: 30%;
+    margin-top: 10%;
+    background-color: rgb(205, 118, 255);
+}
+.inputStyle {
+    width:100%;
+    color: #fff;
+    background-color: transparent;
+    border:none;
+    border-bottom: 1px solid white;
+  }

@@ -1,0 +1,48 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.10.2",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "chart.js": "^2.9.3",
+    "concurrently": "^5.2.0",
+    "json-server": "^0.16.1",
+    "mui-datatables": "^3.0.1",
+    "react": "^16.13.1",
+    "react-chartjs-2": "^2.9.0",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "json1:server": "json-server --watch diesel.json --port 4000",
+    "json2:server": "json-server --watch expenses.json --port 5000",
+    "json3:server": "json-server --watch truckload.json --port 5001",
+    "json4:server": "json-server --watch fastag.json --port 7000",
+    "dev": "concurrently \"npm start\" \"npm run json1:server\" \"npm run json2:server\" \"npm run json3:server\" \"npm run json4:server\""
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
